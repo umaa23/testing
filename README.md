@@ -1,8 +1,8 @@
 # Testing Repository
 
-[![Hello World Workflow](https://github.com/USER/REPO/actions/workflows/hello-world.yml/badge.svg)](https://github.com/USER/REPO/actions/workflows/hello-world.yml)
-[![Code Quality Checks](https://github.com/USER/REPO/actions/workflows/code-quality.yml/badge.svg)](https://github.com/USER/REPO/actions/workflows/code-quality.yml)
-[![Update Documentation](https://github.com/USER/REPO/actions/workflows/documentation.yml/badge.svg)](https://github.com/USER/REPO/actions/workflows/documentation.yml)
+[![Hello World Workflow](https://github.com/umaa23/testing/actions/workflows/hello-world.yml/badge.svg)](https://github.com/umaa23/testing/actions/workflows/hello-world.yml)
+[![Code Quality Checks](https://github.com/umaa23/testing/actions/workflows/code-quality.yml/badge.svg)](https://github.com/umaa23/testing/actions/workflows/code-quality.yml)
+[![Update Documentation](https://github.com/umaa23/testing/actions/workflows/documentation.yml/badge.svg)](https://github.com/umaa23/testing/actions/workflows/documentation.yml)
 
 This is a demonstration repository for testing GitHub integration with Claude Code.
 
@@ -51,7 +51,7 @@ This repository demonstrates how Claude Code can handle the complete GitHub work
 
 ## Learning Resources
 
-- Replace `USER/REPO` in the badge URLs with your actual GitHub username and repository name
+- Replace `umaa23/testing` in the badge URLs with your actual GitHub username and repository name
 - Each workflow file contains detailed comments explaining every step
 - Start with the Hello World workflow to understand the basics
 - The workflows are designed to be safe and educational
